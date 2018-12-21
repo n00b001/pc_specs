@@ -1,0 +1,5 @@
+pandas
+requests
+html5lib
+BeautifulSoup4
+cssselect
